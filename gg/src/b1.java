@@ -4,6 +4,13 @@ public class b1 {
 	{
 		System.out.println("my name is ehtesham");
 		System.out.println("abc");
+		System.out.println("abc");
+		System.out.println("abc");
+		System.out.println("abc");
+		System.out.println("abc");
+		System.out.println("abc");
+		
+		
 	}
 
 }
